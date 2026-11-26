@@ -77,3 +77,9 @@ A builder wants to learn whether venue managers need a better handover. A broad 
 Four venue managers paid for a report and acted on it. The original builder can finish each report in 25 minutes. Other teammates have to ask them about an undocumented exception and take twice as long.
 
 **TEST** one handoff with three comparable reports. Freeze the time allowance and one useful result for customers. Document the input, exception rule, owner, and quality check. Have a teammate run the process with the permissions they would normally have, and record timing, mistakes, and rescue calls. If the teammate meets the agreed standard without rescue, repeat under normal conditions before expanding. If not, change the exception rule or narrow the promise. Paid demand and independent delivery are separate claims.
+
+## TEST · Orders contribute, and capacity still falls short
+
+A builder charges 120 per order. Comparable orders cost 60 each to acquire, deliver, and support, including the builder's time. An ongoing service would add 600 a month in fixed costs. At the observed contribution of 60 per order, it takes 10 orders a month to cover those costs. The builder can currently deliver eight, which would contribute 480.
+
+**TEST** a narrower scope before committing to the fixed costs. Pick one result customers already acted on and keep the other terms clear. Measure time, quality and contribution on a small comparable batch. In parallel, count the eligible people reached, paying orders, and repeat use when a second need occurs. Advance only if both the channel and delivery can plausibly support the revised target. A full schedule at eight orders still leaves a gap of 120 per month under the current assumptions.

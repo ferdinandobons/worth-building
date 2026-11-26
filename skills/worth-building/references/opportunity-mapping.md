@@ -28,6 +28,8 @@ Name one outcome that matters and sketch the possible routes to it.
 4. **Responses.** Once a problem warrants attention, compare at least two plausible ways to improve the outcome when alternatives are available. Include refining the current process, providing a manual service, or keeping the status quo when relevant. Walk through how a real person would discover, start, and get value from each response.
 5. **Assumptions.** Mark which claim about demand, access, feasibility, economics, or adoption differs across responses. Test the claim that changes the choice. If new evidence weakens the problem, reopen the problem comparison.
 
+For several related needs, sketch a simple outline. Put the outcome at the top. Group needs underneath by trigger or part of the person's work. Attach episode IDs and counterexamples to each need. Only beneath a selected need, list plausible solutions and link the [tests](experiments.md) that would distinguish them. Revise the branch that changes as evidence comes in. When a team owns the outcome, have the people responsible for the decision review the same episodes before committing to a solution.
+
 A useful problem statement can be disproved. “Teams need a dashboard” leaves the decision vague. “When the evening shift arrives without a handoff, dispatchers call technicians to reconstruct unresolved jobs, delaying reassignment” tells you whose shift, what to observe, and where an existing solution may already suffice.
 
 ## Keep a short learning loop

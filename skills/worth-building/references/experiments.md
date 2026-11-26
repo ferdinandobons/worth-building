@@ -5,13 +5,21 @@
 List what must be true for the proposed commitment to pay off. Cover the conditions that matter for this step.
 
 - **Problem:** A reachable group encounters the situation and cares about the consequence enough to act.
-- **Adoption:** That group can discover the offer, understand it, get permission if required, and switch or start despite the effort involved.
-- **Delivery:** Someone can produce the promised result at the required speed, reliability, and quality. Identify any technical, operational, permission, or trust assumptions that could defeat the step.
+- **Adoption:** That group cares enough to make room for a change. Someone can discover the offer, see why it matters, get approval if required, and choose it over the current alternative.
+- **Usability:** A person can get started and finish the important task with realistic inputs, access needs, and time constraints. The result is clear enough to act on.
+- **Delivery:** Someone can produce the promised result at the required speed, reliability, and quality. Identify any technical or operational dependencies that could defeat the step.
 - **Viability:** Actual acquisition, delivery, maintenance, and recovery costs fit the resources available. For a paid product, the right buyer commits on viable terms. For an internal or open-source tool, identify who bears the continuing workload and what they get from it.
+- **Effects on others:** Identify who might be burdened, excluded, or exposed to a privacy or trust risk, including people who would never use the product. Ask what permission, safeguard, or separate check is needed before testing with real people or data.
 
 For each assumption, ask what would happen to the proposed step if it were false and what relevant evidence already exists. Put decisive, weakly supported assumptions first. If two are tied, start with the one where a cheap and credible check could save the most irreversible work.
 
 For a paid project, sketch the model on a few lines. Name the target person, triggering problem, current alternative, promised result, way to reach them, paying party, likely price, and main delivery and acquisition costs. For a noncommercial project, write down the outcome and who supplies the time, access, and upkeep. Ask where the model would break first. Test that constraint with an observable event.
+
+## Expose assumptions hidden in the solution
+
+Trace one actual scenario for each candidate. Follow the person from the trigger through finding the offer, deciding to switch, starting, doing the task, and getting the result. At each step, write what must be true. For example, a referral may be possible only from the budget owner, or giving a customer a status update may depend on a worker having permission to see it. Note what is verified and what remains a guess.
+
+For competing solutions, choose one intended outcome and use the current behavior as a baseline when possible. Test the important assumption that differs between options using comparable tasks and conditions. If both depend on the same unsupported premise, check it before investing in either. When one option shifts risk or workload onto someone else, include that consequence in the comparison.
 
 ## Match the test to the claim
 
