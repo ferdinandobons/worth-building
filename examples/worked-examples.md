@@ -83,3 +83,11 @@ Four venue managers paid for a report and acted on it. The original builder can 
 A builder charges 120 per order. Comparable orders cost 60 each to acquire, deliver, and support, including the builder's time. An ongoing service would add 600 a month in fixed costs. At the observed contribution of 60 per order, it takes 10 orders a month to cover those costs. The builder can currently deliver eight, which would contribute 480.
 
 **TEST** a narrower scope before committing to the fixed costs. Pick one result customers already acted on and keep the other terms clear. Measure time, quality and contribution on a small comparable batch. In parallel, count the eligible people reached, paying orders, and repeat use when a second need occurs. Advance only if both the channel and delivery can plausibly support the revised target. A full schedule at eight orders still leaves a gap of 120 per month under the current assumptions.
+
+## When conviction and evidence disagree
+
+A builder says every restaurant would pay 49 a month for an app that chases missing orders. They want to commit two months to development. Friends liked the idea and a post got attention, but there are no recent restaurant episodes or payments in the record.
+
+**TEST** the restaurant problem before committing to development. The claim is that owners regularly lose enough time or money on missed orders to change their process. A credible alternative is that their ordering system already handles most cases. Ask managers in the intended segment to show the last incident and what they did. Agree in advance what repeated, costly failure would justify a small offer test and what adequate existing practice would rule out this version. Repeating the original claim leaves the recommendation at **TEST**.
+
+Suppose the builder later shows that three independent restaurants paid for a manual pilot for two weeks, used it on real orders, and could be served within four hours per week. A fourth restaurant already handles the problem with its current system. **GO** for one more bounded week with those pilot customers if they want to continue. Review completed cases and delivery time before allocating more work. The evidence supports this pilot with this group. Demand from other restaurants remains open.

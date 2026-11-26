@@ -12,6 +12,12 @@ Rate each observation against **one named claim and population**. Record directi
 
 Treat statements of future action according to what actually happened. A booked pilot is evidence of scheduling. Attendance, active use, repeated use, and payment each support different claims.
 
+## Check a confident claim
+
+Write the claim in a form a specific observation could challenge. “Everyone would pay” leaves demand open. Ask which buyers had the problem recently, what they did, and what they accepted on clear terms. If the user describes two payments in detail, record them as reported payments in that scope and ask for supporting records when the next commitment warrants it. An uninspected record leaves more uncertainty than a record you have checked. Treat the user as a possible firsthand source and keep the level tied to what they can describe or show.
+
+Ask what would tell you that the current explanation is wrong. A manager may praise a reminder while already using a tool that solves the problem. Prefer a comparison that could expose a sufficient alternative, show the issue is rare, or reveal that the real buyer values a different outcome. Record what would count against the claim before testing it.
+
 ## Claims to keep separate
 
 - **Problem and consequence.** Who encounters it, under what trigger, how frequently within a relevant period, and with what measurable effect? Rare incidents may still matter if the consequence is severe.
