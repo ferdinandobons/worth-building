@@ -10,9 +10,9 @@ You have a new idea. You can already picture the features, and part of you wants
 
 ## Try it with your idea
 
-[Install worth-building](docs/installation.md) for Codex, Claude Code, or Gemini CLI. Then tell your assistant what you're thinking of doing.
+[Install worth-building](docs/installation.md) for Codex, Claude Code, or Gemini CLI. Replace the bracketed text with your idea and tell your assistant what you're thinking of doing.
 
-> I have an idea for an app that helps independent bookshops manage special orders. Is it a good idea? What would I need to make it work?
+> I'm thinking about [what you'd like to build or try]. Is it worth pursuing? What would I need to make it work?
 
 If your client selects skills automatically, a conversation about a new idea or project can bring in Worth Building. Start with the idea itself. The skill can ask what made you think there was a problem, help you work out what to find out first, and ask about time or contacts when they matter. [See the worked example](examples/worked-examples.md#a-guided-review-from-one-idea).
 
