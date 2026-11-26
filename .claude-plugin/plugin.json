@@ -1,0 +1,8 @@
+{
+  "name": "worth-building",
+  "version": "0.1.0",
+  "description": "Evaluate an idea with evidence and decide what is worth building.",
+  "author": { "name": "Ferdinando Bonsegna" },
+  "repository": "https://github.com/ferdinandobons/worth-building",
+  "license": "MIT"
+}

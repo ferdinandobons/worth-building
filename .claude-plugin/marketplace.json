@@ -1,0 +1,12 @@
+{
+  "name": "worth-building-tools",
+  "description": "Worth Building helps independent builders evaluate new ideas with evidence.",
+  "owner": { "name": "Ferdinando Bonsegna" },
+  "plugins": [
+    {
+      "name": "worth-building",
+      "source": "./",
+      "description": "Evaluate an idea with evidence and decide what is worth building."
+    }
+  ]
+}
