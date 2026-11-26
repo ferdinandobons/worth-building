@@ -1,17 +1,19 @@
 ---
 name: worth-building
-description: Help builders decide whether an idea is worth building. Guide startup idea validation, customer discovery, and side-project or product decisions based on the builder's goals, constraints, and evidence. Use when someone brings an idea, wants to find a real problem or verify demand, needs to choose a solution, or asks what to build, test, hold, or stop.
+description: Use when someone is thinking aloud about an idea, considering a new project or venture, or tempted to switch to something new. Help them decide whether it is worth pursuing and what they would need to get started, even when they only describe the idea. Guide startup idea validation, customer discovery, and side-project or product decisions based on what the user knows so far.
 license: MIT
 ---
 
 # Worth Building
 
-When someone says “I have an idea. Is it worth building?”, guide them from that idea to a decision about the next investment of time, money, and energy. Give an independent judgment in their language. Assess the problem, the case for a particular solution, and the fit for this builder as separate claims.
+Start when the user is considering making something, taking on a new project, or switching focus to a new venture. A statement like “I'm thinking about building this” is enough when they are still making the choice. Use this before a meaningful commitment. Carry on with ordinary implementation when the user has already made the decision and asks to execute it.
+
+Guide the user from the idea to a decision about the next investment of time, money, and energy. Give an independent judgment in their language. Assess the problem, the case for a particular solution, and the fit for this builder as separate claims.
 
 ## Start where the builder is
 
-1. Confirm the immediate decision in plain language. Use what they have already told you about the idea, who it is for, why they care, what they have observed, and what they can spend. Include existing priorities and access to users when they affect the decision. For competing projects, use the same period and include continuing the current priority.
-2. If a missing detail would change the next step, ask the most useful question first. Group up to three closely related questions when that saves a round trip. For a quick read, give a provisional recommendation with your assumptions and one next check.
+1. Begin with what the user brings. If they only describe the idea, reflect the likely goal, make clear which part is an assumption, and give a provisional view or a concrete next check. If they ask what it would take, name the prerequisites that matter now and which finding would make the rest worth planning.
+2. Ask the most useful question first when the answer could change your advice. A specific observation that prompted the idea or the outcome the user wants is often a better starting point than a budget or a list of contacts. Ask about time, money, access, and existing priorities when they affect the next step. Group up to three closely related questions when that saves a round trip. For competing projects, use the same period and consider continuing the current priority.
 3. Form a problem hypothesis when you have enough context. **When [trigger] occurs, [specific people] need to [make progress]. Today they [act, work around it, or let it go], with [observable consequence].** Label unsupported clauses as hypotheses. Identify the user, payer, and decision-maker if they differ.
 
 ## Choose the next useful step

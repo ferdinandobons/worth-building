@@ -4,11 +4,11 @@ All people, observations, thresholds, and budgets below are fictional. Use them 
 
 ## A guided review from one idea
 
-A builder wants to make an app for bookshop special orders, has a free Saturday morning, and knows two shop owners. They have yet to see either shop handle an order.
+> I have an idea for an app that helps independent bookshops manage special orders. Is it a good idea? What would I need to make it work?
 
-**Start with TEST.** The most useful question is how a shop handled its last special order. Use Saturday morning to reconstruct one recent order with each owner. Ask where it stalled, what that meant for the customer or staff, and whether the current system already handles it. Compare actual events and use the two interviews to decide whether another check is worthwhile.
+**Start with TEST.** One possible problem is that staff lose track of orders, but the idea alone leaves that open. Start with “What made you think special orders are hard for bookshops to manage?” If the builder can reach a shop, ask someone to show how they handled their most recent order. If access is limited, look for a firsthand account of the workflow and use it to plan a conversation. The useful next evidence is a specific delay, mistake, or repeated workaround.
 
-Suppose both owners show that orders are tracked reliably, but staff forget to tell customers when an order is ready. The revised problem is customer notification at pickup, with the records supporting it at those shops. Compare adding a reminder to the existing workflow with an app. If the builder can free up another morning, the next **TEST** could be to try the reminder on a few live orders and record whether staff send updates on time. If both shops already sent timely updates but customers ignored them, investigate why people missed those updates before proposing another reminder.
+Suppose the builder later brings examples from two shops. Both track orders reliably, but staff forget to tell customers when an order is ready. The revised problem is customer notification at pickup, with the records supporting it at those shops. Compare adding a reminder to the existing workflow with an app. If a shop is willing to try it, the next **TEST** could be to use a simple reminder on a few live orders and record whether staff send updates on time. If the shops already send timely updates but customers miss them, investigate the delivery or wording of those updates before proposing another reminder.
 
 ## Find a problem before proposing a product
 

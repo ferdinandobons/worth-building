@@ -47,11 +47,11 @@ For one workspace, copy it into that workspace's `.gemini/skills/` or `.agents/s
 
 ## Check that it works
 
-Use your client's invocation method with this small case.
+In a client that selects skills automatically, start a new conversation and send a plain-language prompt.
 
-> Use worth-building. I want to build a paid client-portal app. Two friends said it was a great idea. I have no interviews, usage, or other demand evidence. I can spare two hours this week and haven't identified a specific customer segment.
+> I have an idea for a paid app that gives freelancers a place to share updates with clients. Is it worth building? Help me figure out what I'd need.
 
-A suitable reply treats the compliments as weak evidence, gives a provisional **TEST** if a useful check fits the budget or **HOLD** if a concrete access constraint prevents one, and explains what to do next. It should leave any proposed customer conversations or search results clearly labeled as planned or unverified.
+A suitable reply identifies the likely problem as a hypothesis and starts with a useful question or check, such as how a freelancer handled their last client update. The host decides whether to select the skill. In Gemini CLI, approve activation if prompted. You can also select `worth-building` explicitly using the instructions for your client above.
 
 To uninstall, remove only the installed `worth-building` folder from the location where you copied it and start a fresh session if necessary.
 
