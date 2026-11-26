@@ -18,7 +18,7 @@
 
 - **Decisive assumption** · [Falsifiable claim.]
 - **Method** · [Real participants or artifacts, eligibility, recruitment, comparison or baseline, and procedure.]
-- **Measure** · [Observed event, exposure denominator or qualitative criterion, and measurement window.]
+- **Measure** · [Outcome, who values it, observed event or labeled proxy, baseline, eligible exposure, and measurement window. Include meaningful effects on buyers or operators when they are different people.]
 - **Pass** · [Threshold and resulting decision.]
 - **Fail** · [Adequately exposed result that challenges the claim, and resulting decision.]
 - **Inconclusive** · [Insufficient exposure, inaccessible data, measurement failure, or ambiguity, and resulting decision.]

@@ -10,6 +10,14 @@ All people, observations, thresholds, and budgets below are fictional. Use them 
 
 Suppose the builder later brings examples from two shops. Both track orders reliably, but staff forget to tell customers when an order is ready. The revised problem is customer notification at pickup, with the records supporting it at those shops. Compare adding a reminder to the existing workflow with an app. If a shop is willing to try it, the next **TEST** could be to use a simple reminder on a few live orders and record whether staff send updates on time. If the shops already send timely updates but customers miss them, investigate the delivery or wording of those updates before proposing another reminder.
 
+## TEST · A familiar choice after browsing
+
+A builder proposes a visual pizza configurator for table ordering. They saw a diner browse the menu for several minutes and order a familiar pizza. The builder did not hear the diner explain the choice or ask for any substitutions.
+
+**TEST** the diner's goal before comparing menu designs. Ask what made them decide and how the choice turned out. The observation supports time spent browsing and the final choice. It leaves their reason and whether they wanted a different result open.
+
+Suppose diners describe wanting to try existing menu items and backing out when they cannot tell what to expect. Then compare the same menu with and without real photos. Check whether diners who want something new can choose with confidence and are satisfied after the meal. If the restaurant wants fewer clarification requests, measure those separately. More orders of unfamiliar items alone show a change in selection. Reports about composing custom combinations would motivate a different test. If diners were happy with their usual orders, look for another observed problem before making either version.
+
 ## Find a problem before proposing a product
 
 A shop owner is considering some kind of repair-shop app but can spend only one morning exploring it. They recall one delayed repair while waiting for a part, one afternoon of interrupted work answering status calls, and one awkward appointment reschedule. Each is a candidate problem. The owner can trace several recent status calls using a redacted shop log, so that is the most accessible starting point.

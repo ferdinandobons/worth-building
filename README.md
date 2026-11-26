@@ -16,7 +16,7 @@ You can already picture the first version. Before you give it another weekend, f
 
 If your client selects skills automatically, talking about a new idea can bring in Worth Building. The skill starts from what you've said, then asks the question most likely to change your next step. Bring back what you learn and pick up from there. [See the worked example](examples/worked-examples.md#a-guided-review-from-one-idea).
 
-Expect it to ask what you've actually seen and what could prove the idea wrong. When it can browse, it checks public claims against sources and looks for existing alternatives. The recommendation changes when new evidence changes the case.
+Expect it to ask what you've actually seen, what outcome people wanted, and what could prove the idea wrong. When it can browse, it checks public claims against sources and looks for existing alternatives. If the current choice already works for the people involved, that can change what it asks you to test. [See a worked example](examples/worked-examples.md#test--a-familiar-choice-after-browsing).
 
 ## From the first idea to the next decision
 

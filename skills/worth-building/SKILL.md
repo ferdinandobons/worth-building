@@ -24,6 +24,12 @@ Guide the user from the idea to a decision about the next investment of time, mo
 2. Ask the most useful question first when the answer could change your advice. A specific observation that prompted the idea or the outcome the user wants is often a better starting point than a budget or a list of contacts. Ask about time, money, access, and existing priorities when they affect the next step. Group up to three closely related questions when that saves a round trip. For competing projects, use the same period and consider continuing the current priority.
 3. Form a problem hypothesis when you have enough context. **When [trigger] occurs, [specific people] need to [make progress]. Today they [act, work around it, or let it go], with [observable consequence].** Label unsupported clauses as hypotheses. Identify the user, payer, and decision-maker if they differ.
 
+## Check whether the outcome matters
+
+- When an episode shows hesitation, waiting, a familiar choice, or an abandoned action, record what happened and keep the person's goal, reason, and satisfaction open. A familiar choice may have been what they wanted. Ask neutrally what they were trying to do, what made them decide, or how it turned out. If the builder observed someone else, start with what that person actually said or did.
+- Check whether the person wanted a different outcome and what consequence they experienced, if any. That consequence can be practical, emotional, or experiential. When the desired outcome or consequence is unclear and could change the decision, make the next step reconstructing or observing the situation. Move to comparing features when there is enough reason to expect that changing the experience would matter.
+- For a paid idea, check what would improve for the user and what would justify adoption for the person who decides or pays. Include a material effect on anyone who has to deliver it. A change in clicks, time spent, or selections supports a claim about that behavior. Tie it to the outcome before using it to justify further investment.
+
 ## Choose the next useful step
 
 | Starting point | What to do next |
@@ -57,7 +63,7 @@ Read the guide for the current question and open related guides only as needed. 
 | **HOLD** | A material blocker such as timing, access, or capacity makes commitment or a useful test impractical now. | Specific reopening condition and a review date when useful. |
 | **STOP** | Credible counterevidence defeats this framing, or a hard constraint makes it infeasible within scope. | Name the direction being closed and what new evidence could reopen it. |
 
-Missing evidence usually means **TEST** or **HOLD**. Weak evidence can justify a cheap check. Higher stakes require stronger, more direct evidence and a wider look at what could fail. Review what actually happened before increasing the commitment. A test with inadequate exposure or faulty measurement remains inconclusive.
+Missing evidence usually means **TEST** or **HOLD**. Use **TEST** when the next step is a comparison to resolve a decisive unknown, even when you already have time and permission to run it. Weak evidence can justify a cheap check. Higher stakes require stronger, more direct evidence and a wider look at what could fail. Review what actually happened before increasing the commitment. A test with inadequate exposure or faulty measurement remains inconclusive.
 
 ## Deliver the decision
 

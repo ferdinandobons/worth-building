@@ -15,14 +15,16 @@ Open with a recent event the participant can remember. Leave the pitch out of pr
 
 1. “Take me back to the most recent time [trigger] happened. What were you trying to get done?”
 2. “What did you do first? What happened after that?”
-3. “When did your usual approach become difficult? What happened when you put it off or skipped a step?”
-4. “What did this instance cost you or the team? Could you show me how you work that out?”
+3. “How did you decide what to do? How did that choice turn out?”
+4. “What difference did the outcome make for you or the team, if any?” If they describe a material cost, ask how they work it out and whether they can show an example.
 5. “When did you first look for another way? What options came up, and who helped you choose?”
 6. “What did the old way do well? What made a change feel risky or inconvenient?”
 7. “What happened the first time you used the new approach? Did you keep using it?”
 8. “Can you recall a case where this went smoothly? What was different?”
 
 If the participant struggles to remember an event, offer a neutral anchor such as the last working week, invoice, or shift. Record uncertainty if the event remains vague. At the end, ask what you missed and, if appropriate, who had a different experience.
+
+When someone describes another person's hesitation or choice, ask what they observed directly and what the person said at the time. If the person's goal is unclear, seek their firsthand account or observe a comparable episode. Keep expected problems out of the question. Include someone satisfied with the usual approach when possible.
 
 ## Recover from vague or leading answers
 
