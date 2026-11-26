@@ -2,47 +2,49 @@
 
 ![worth-building. Another idea. Another dead end? An AI skill to help you find problems worth solving. A clock, star, coin, and battery sit among tangled strands. Three intact mesh screens catch the red, yellow, and purple strands. The green strand breaks through its own mesh and continues beneath a smiling face.](assets/banner.png)
 
-The last idea felt right, too. Before the next one takes over your evenings or budget, find out who has the problem, what it costs them, and how they handle it today.
+## Is this idea worth building?
 
-**worth-building** is an open-source Agent Skill for independent builders and small product teams. Bring a rough idea, a handful of observations, or two projects competing for the same time. The skill helps you find a problem worth investigating, check the evidence, and decide how much to commit next.
+You have a new idea. You can already picture the features, and part of you wants to spend the weekend building it. Maybe the last idea felt just as convincing. Who has this problem today? What do they already do about it? What would you need to see before giving this idea another weekend?
 
-## Try it
+**worth-building** is an open-source AI skill for validating startup ideas, side projects, and product features. Tell it what you're thinking of building. It helps you find the problem behind the idea, figure out what you still need to learn, and decide what to do next with the time and money you actually have.
 
-After [installing the skill](docs/installation.md), select or invoke it in your AI client and give it a concrete decision.
+## Try it with your idea
 
-> I have six hours this week and keep getting ideas for tools for independent bookshops. Help me find a problem worth investigating. My current priority is finishing a project I already promised to deliver. Start with workflows I can observe. Then tell me what evidence would justify spending more time.
+[Install worth-building](docs/installation.md) for Codex, Claude Code, or Gemini CLI. Invoke it in your client and explain your idea as you would to a friend. Use this prompt as a starting point.
 
-> I'm considering two ideas and can pursue one this month. Here's what people actually did, what they said they might do, and what each option would displace. Give me a decision for each and one observation that could change your mind.
+> I'm thinking of building an app to help independent bookshops track special orders. I have Saturday morning and know two shop owners I can talk to. Is this worth building? Walk me through what to find out first.
 
-For a quick judgment, share the situation, what you have seen, and how much you are about to spend. For a deeper review, add relevant links or redacted interview notes.
+With that starting point, the skill could help you ask the owners to walk through their last special order and look for where the current process breaks down. If the problem shows up in both shops, you can compare a change to the existing workflow with an app before you commit to either. [See the worked example](examples/worked-examples.md#a-guided-review-from-one-idea).
 
-## What you get
+## How the guided validation works
 
-- **Find opportunities** by starting with real situations where people wait, rework, improvise, pay for help, or give up.
-- **Check the case** through sourced web research, interviews grounded in specific past events, and small experiments with criteria set in advance.
-- **Check your own fit** by naming what the idea would displace and what work you would still choose when the novelty passes.
-- **Make the next decision** with an evidence trail, countercase, and a limit on the commitment.
+- **You have a rough idea.** Start with who would use it, the last time the problem came up, and how they handled it. If you have yet to choose an idea, start with a workflow you can observe.
+- **You have some evidence.** Bring customer interviews, web research, or notes from a pilot. The skill checks what they support and asks which missing fact would change your decision.
+- **You have a real problem and several ways to solve it.** Compare the options against the same outcome. Check how each would fit the customer's workflow, what switching would take, and what it would cost you to deliver and maintain.
+- **You have several projects competing for your time.** Compare them over the same period. Make room for the work you already care about and decide what each new commitment would displace.
 
-| Decision | Next step |
+You can work through the decision in conversation or get a quick first read. As you bring back evidence, the recommendation can change.
+
+| Decision | What to do next |
 | --- | --- |
-| **GO** | Take the named, bounded step supported by the evidence. |
+| **GO** | Take the specific step the evidence supports, with a limit and a review date. |
 | **TEST** | Run the smallest credible check that could change your decision. |
-| **HOLD** | Revisit when a stated constraint clears or at a scheduled review. |
-| **STOP** | Close this direction on relevant counterevidence or a binding constraint. |
+| **HOLD** | Revisit when a specific constraint clears. |
+| **STOP** | Close this direction when the evidence or a binding constraint rules it out. |
 
 ## Install it
 
-Copy the complete [skill folder](skills/worth-building/SKILL.md), including its supporting files. The [installation guide](docs/installation.md) covers Codex, Claude Code, and Gemini CLI, with official documentation, verification steps, and a manual chat fallback. The skill consists of Markdown instructions and has no runtime dependencies of its own. Web research needs a client with browsing or sources you provide.
+Copy the complete [skill folder](skills/worth-building/SKILL.md), including its supporting files. The [installation guide](docs/installation.md) covers Codex, Claude Code, Gemini CLI, and a manual chat option. The skill consists of Markdown instructions. For web research, use a client with browsing or provide links and notes yourself.
 
-## Read or reuse the method
+## Explore the method
 
-- [Evidence rubric](skills/worth-building/references/evidence.md) and [builder reflection rubric](skills/worth-building/references/reflection.md)
-- [Web research workflow](skills/worth-building/references/web-research.md) and [interview workflow](skills/worth-building/references/interviews.md)
-- [Decision brief template](skills/worth-building/assets/decision-brief.md)
-- [Find and compare problems](skills/worth-building/references/opportunity-mapping.md) and [design the next experiment](skills/worth-building/references/experiments.md)
+- [Find and compare problems](skills/worth-building/references/opportunity-mapping.md)
+- [Research alternatives](skills/worth-building/references/web-research.md) and [run customer discovery interviews](skills/worth-building/references/interviews.md)
+- [Assess the evidence](skills/worth-building/references/evidence.md) and [check what the project would displace](skills/worth-building/references/reflection.md)
+- [Design an experiment](skills/worth-building/references/experiments.md) and [record the decision](skills/worth-building/assets/decision-brief.md)
 - [Worked examples](examples/worked-examples.md) and [Worth Building's self-assessment](examples/self-assessment.md)
 
-The repository includes fictional practice cases. Its own usefulness and repeat adoption are still hypotheses. See the self-assessment for the proposed first test.
+The worked examples are fictional. The self-assessment explains what would demonstrate that builders find the skill useful and choose to use it again.
 
 ## License
 

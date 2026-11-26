@@ -2,6 +2,14 @@
 
 All people, observations, thresholds, and budgets below are fictional. Use them to see how the decision responds to different inputs. Set your own criteria before collecting data.
 
+## A guided review from one idea
+
+A builder wants to make an app for bookshop special orders, has a free Saturday morning, and knows two shop owners. They have yet to see either shop handle an order.
+
+**Start with TEST.** The most useful question is how a shop handled its last special order. Use Saturday morning to reconstruct one recent order with each owner. Ask where it stalled, what that meant for the customer or staff, and whether the current system already handles it. Compare actual events and use the two interviews to decide whether another check is worthwhile.
+
+Suppose both owners show that orders are tracked reliably, but staff forget to tell customers when an order is ready. The revised problem is customer notification at pickup, with the records supporting it at those shops. Compare adding a reminder to the existing workflow with an app. If the builder can free up another morning, the next **TEST** could be to try the reminder on a few live orders and record whether staff send updates on time. If both shops already sent timely updates but customers ignored them, investigate why people missed those updates before proposing another reminder.
+
 ## Find a problem before proposing a product
 
 A shop owner is considering some kind of repair-shop app but can spend only one morning exploring it. They recall one delayed repair while waiting for a part, one afternoon of interrupted work answering status calls, and one awkward appointment reschedule. Each is a candidate problem. The owner can trace several recent status calls using a redacted shop log, so that is the most accessible starting point.
