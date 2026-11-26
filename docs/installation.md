@@ -57,4 +57,4 @@ To uninstall, remove only the installed `worth-building` folder from the locatio
 
 ## Use it manually in another chat
 
-If your client has no Agent Skills loader, attach or paste `SKILL.md`, the [evidence rubric](../skills/worth-building/references/evidence.md), and the [reflection rubric](../skills/worth-building/references/reflection.md). Add the opportunity mapping, web research, interview, or experiment guide when relevant. Explicitly ask the assistant to apply those instructions to your decision. A chat without file or web tools can still work from material you paste. This gives you a manual workflow within that conversation.
+If your client has no Agent Skills loader, attach or paste `SKILL.md` and the guides for the decision you are making. Start with the [evidence rubric](../skills/worth-building/references/evidence.md) or [builder reflection](../skills/worth-building/references/reflection.md) if you need a first read. Each path in `SKILL.md` links to its guide. Ask the assistant to apply those instructions to your idea. A chat without file or web tools can still work from material you paste.

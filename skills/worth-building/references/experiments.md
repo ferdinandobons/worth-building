@@ -6,10 +6,12 @@ List what must be true for the proposed commitment to pay off. Cover the conditi
 
 - **Problem:** A reachable group encounters the situation and cares about the consequence enough to act.
 - **Adoption:** That group can discover the offer, understand it, get permission if required, and switch or start despite the effort involved.
-- **Delivery:** Someone can produce the promised result at the required speed, reliability, and quality.
+- **Delivery:** Someone can produce the promised result at the required speed, reliability, and quality. Identify any technical, operational, permission, or trust assumptions that could defeat the step.
 - **Viability:** Actual acquisition, delivery, maintenance, and recovery costs fit the resources available. For a paid product, the right buyer commits on viable terms. For an internal or open-source tool, identify who bears the continuing workload and what they get from it.
 
 For each assumption, ask what would happen to the proposed step if it were false and what relevant evidence already exists. Put decisive, weakly supported assumptions first. If two are tied, start with the one where a cheap and credible check could save the most irreversible work.
+
+For a paid project, sketch the model on a few lines. Name the target person, triggering problem, current alternative, promised result, way to reach them, paying party, likely price, and main delivery and acquisition costs. For a noncommercial project, write down the outcome and who supplies the time, access, and upkeep. Ask where the model would break first. Test that constraint with an observable event.
 
 ## Match the test to the claim
 
@@ -24,10 +26,14 @@ For each assumption, ask what would happen to the proposed step if it were false
 
 A signup on a clearly described interest page can help measure interest or reach. It says little about repeat use. Manual support can help test whether the outcome is valuable. Record the assistance before extrapolating to a self-serve version. When comparing two options, give them comparable exposure and record differences that could explain the result.
 
+Start with a cheap exploration when the question or audience is still unclear. Move to a realistic behavior test when the upcoming commitment depends on adoption, payment, or delivery. Combine different forms of evidence when the stakes warrant it, such as a recorded workaround, a real switch, and a follow-up after the next natural trigger. Keep the eligibility, incentives, and denominator visible. Several versions of the same weak signal can leave the same uncertainty open.
+
 ## Agree on the outcome before running the test
 
 Use the [decision brief](../assets/decision-brief.md). Name the target, the current baseline when possible, the eligible exposure, the observed behavior, and the measurement window. Set a meaningful pass, fail, and inconclusive condition. State the decision each condition triggers. Choose a threshold suitable for the cost of the step. Mark qualitative routing criteria for small samples as such.
 
 At review, compare the actual result with the original criteria and record deviations before interpreting the outcome. Ask whether a different incentive, poor timing, missing access, or a measurement problem explained the result. Track the distinction between an offer seen, tried, and adopted with an eligible denominator when available. Save the observation and the interpretation separately. Name the next changed assumption. Extend the test only when the added time buys a specific learning opportunity.
+
+If possible, compare with current behavior or a realistic alternative. Record any changed conditions before making a causal claim. After the test, use the new evidence to choose a smaller follow-up, a changed hypothesis, a bounded commitment, or a stop. For delivery capacity or handoffs, use [delivery and operations](delivery-and-operations.md).
 
 For example, if six people agreed to a trial but only two received working access, the adoption question is inconclusive. Access failure is still useful evidence about the delivery process. The next choice may be to fix access and rerun the same test within the cap.

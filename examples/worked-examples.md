@@ -53,3 +53,27 @@ The proposal is a paid add-on that sends reminders for a workflow inside an exis
 Two independent repair shops describe reconstruction work after missed handoffs. Their managers paid for a manual evening summary and used it during live shifts (C4 for those offers). Producing it required 50 minutes a night with extra unpaid help (C3 for that setup). The managers paid enough to cover only 20 minutes of the builder's time per summary. Both asked for reliability during the late shift.
 
 **TEST** whether a narrower delivery process can keep the promised result within the existing terms. Compare three more real handoffs with the manual baseline, recording time, errors, help, and delivery delays. A pass requires meeting the delivery deadline every night, preserving the key information both managers use, and getting within the 20-minute cost limit. More than one missed deadline or a clear overrun on each comparable night defeats the current process at this price. A shift without normal exposure or bad time records makes the result inconclusive. The builder caps the comparison at one week. A pass supports another bounded pilot. It leaves repeatable acquisition open.
+
+## TEST · A creative project has more than one route
+
+A builder wants to make a personal audio tour so a friend who is new to their neighborhood can recognize three landmarks on a walk. They feel stuck designing a map interface. They can finish one small artifact this evening.
+
+**TEST** whether a single spoken route guides the walk. Sketch a paper route, record a short audio sample, and choose the fastest option that preserves the experience the builder wants. Ask the friend to follow it and note where they hesitate. If they can find the landmarks while keeping their phone in their pocket, expand the audio route. If they repeatedly lose their bearings, test landmark descriptions or a small map next. Measure the experience the builder cares about.
+
+## TEST · A small routine gets the work back in motion
+
+A builder planned to interview three venue managers. They have used their Friday blocks to redesign slides and start a second idea. An existing peer check-in is the one time they reliably prepare.
+
+**TEST** a simpler routine for the next two check-ins. After writing the usual agenda, open the last research note and prepare one neutral question about a recent venue handover. Use the protected block to book or complete one authorized conversation. Save what was observed and the decision it affects. If contact remains hard to reach after two attempts, change the recruitment route. If a new idea appears during the block, save it for the scheduled review. A kept time block measures follow-through, and the interview supplies evidence about the work.
+
+## TEST · Share a small artifact and observe who acts
+
+A builder wants to learn whether venue managers need a better handover. A broad audience liked a polished illustration, but nobody described a recent handover. The builder has permission to post a de-identified example and can reach a relevant peer community.
+
+**TEST** with one useful before-and-after handover sketch. Ask managers who completed a handover this month what step created the most waiting. Record the number of eligible respondents who describe a specific case or agree to show a redacted example. Use that to find interview candidates. Evaluate real repeated use separately if the builder later offers a pilot.
+
+## TEST · Prove the process survives a handoff
+
+Four venue managers paid for a report and acted on it. The original builder can finish each report in 25 minutes. Other teammates have to ask them about an undocumented exception and take twice as long.
+
+**TEST** one handoff with three comparable reports. Freeze the time allowance and one useful result for customers. Document the input, exception rule, owner, and quality check. Have a teammate run the process with the permissions they would normally have, and record timing, mistakes, and rescue calls. If the teammate meets the agreed standard without rescue, repeat under normal conditions before expanding. If not, change the exception rule or narrow the promise. Paid demand and independent delivery are separate claims.

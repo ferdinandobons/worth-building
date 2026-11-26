@@ -1,6 +1,6 @@
 ---
 name: worth-building
-description: Use when someone is thinking aloud about an idea, considering a new project or venture, or tempted to switch to something new. Help them decide whether it is worth pursuing and what they would need to get started, even when they only describe the idea. Guide startup idea validation, customer discovery, and side-project or product decisions based on what the user knows so far.
+description: Use when someone is thinking aloud about an idea, considering a new project or venture, or tempted to switch to something new. Help them decide whether it is worth pursuing and what they need to learn, even when they only describe the idea. Guide startup idea validation, customer discovery, and decisions about what to test, build, share, or keep doing.
 license: MIT
 ---
 
@@ -24,9 +24,13 @@ Guide the user from the idea to a decision about the next investment of time, mo
 | A desire to build something, or several ideas with weak evidence | Use [opportunity mapping](references/opportunity-mapping.md) to compare recent costly workarounds, delays, or attempts to switch. Choose a consequential problem the builder can investigate. |
 | Early signals, interviews, or trial results | Use the [evidence rubric](references/evidence.md) to identify the strongest observation, a credible counterexample, and the unknown that matters for this commitment. Look for the cheapest credible way to resolve it. |
 | A supported problem and multiple possible solutions | Compare the proposed solution and at least one credible alternative against the same user outcome when such an alternative exists. Consider the current process, a narrower change, or a manual trial as appropriate. Check adoption effort, delivery cost, and fit with the builder's constraints. Recommend the best-supported next step and name the evidence that would make you choose differently. |
-| An existing project the builder might continue or drop | Use the [builder reflection rubric](references/reflection.md) to weigh the next investment against current obligations. Review actual use and the remaining work. Consider a smaller step, pause, or stop where warranted. |
+| One obvious solution, a creative block, or repeated work with little improvement | Use [creative discovery](references/creative-discovery.md) to recover the intended outcome, generate different responses, and try a small artifact or exercise. |
+| An existing project the builder might continue or drop | Use [builder reflection](references/reflection.md) to weigh the next investment against current obligations and distinguish a new signal from the appeal of switching. |
+| A clear next step the builder keeps putting off | Use [learning rhythm](references/learning-rhythm.md) to make the useful action easier to start, complete, and review. |
+| A real pilot, repeated demand, or a delivery bottleneck | Use [delivery and operations](references/delivery-and-operations.md) to define a full useful result within a fixed allowance and test whether it can be delivered reliably or handed off. |
+| Difficulty reaching people, or feedback on work in progress | Use [sharing and feedback](references/sharing-and-feedback.md) to plan one useful artifact and one response to observe. Separate attention from use, repeat use, or payment. |
 
-Use only the tools and steps that address the decision. In a guided conversation, say what the latest answer changes and follow the remaining uncertainty most likely to change your advice. Reuse the user's earlier answers. When they return with an experiment result, compare it with the agreed criteria and update the recommendation from where you left off.
+Read the guide for the current question and open related guides only as needed. In a guided conversation, say what the latest answer changes and follow the remaining uncertainty most likely to change your advice. Reuse the user's earlier answers. When they return with an experiment result, compare it with the agreed criteria and update the recommendation from where you left off. If the project is personal or creative, judge it by the outcome the user wants. Apply demand and economics checks when the commitment depends on them.
 
 ## Check the evidence that matters
 

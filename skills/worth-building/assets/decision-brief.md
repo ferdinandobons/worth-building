@@ -23,3 +23,9 @@
 - **Fail** · [Adequately exposed result that challenges the claim, and resulting decision.]
 - **Inconclusive** · [Insufficient exposure, inaccessible data, measurement failure, or ambiguity, and resulting decision.]
 - **Review** · [Deadline, owner, spending limit, and next learning touchpoint.]
+
+## Update after a test or delivery check
+
+- **What happened** · [Observed result, eligible exposure, exceptions, time, and cost as relevant.]
+- **What this changes** · [Assumption, confidence, and what remains open.]
+- **Next decision** · [GO / TEST / HOLD / STOP with a specific action, owner, and review condition.]

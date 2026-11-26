@@ -7,6 +7,8 @@
 - Recruit where the work happens or through specific referrals. Use more than one route if practical. Track recruitment route and who the screen excludes. A circle of enthusiastic friends can rehearse a script. It gives little evidence about the target audience unless the friends qualify on their own.
 - Use a neutral invitation about the situation and how people deal with it. Keep participation voluntary. Get authorization before outreach, explain the note-taking purpose, get permission to record or view an artifact, and keep only necessary, redacted details. If two team members join, agree who leads and who takes notes.
 
+For an early batch, use a shared screen so the stories are comparable and leave room for a few people who handled the situation differently. If the first conversations reveal a different trigger, improve the next screen. Record the change before mixing the batches. Short conversations in context can be useful when they yield a specific episode.
+
 ## Follow the episode
 
 Open with a recent event the participant can remember. Leave the pitch out of problem discovery. Follow their sequence, allow pauses, and use short questions. Choose the prompts that fit.
@@ -33,6 +35,8 @@ If the participant struggles to remember an event, offer a neutral anchor such a
 | “Everything works fine.” | “Could you walk me through the last smooth case?” Keep it as a potential counterexample. |
 
 Explore the problem and the offer in separate phases. Once you are explicitly testing an offer, ask for an appropriate next action with clear terms. Distinguish a promised introduction from an introduction made, a planned trial from a trial used in real work, and an agreement to pay from payment.
+
+Ask who took the last relevant decision and what they actually had to approve. If somebody offers help, make the next step concrete, such as a completed introduction, a follow-up with an agenda, or a trial with one real task. Record what they agreed to and what happened separately. An unanswered follow-up leaves a different signal from an explicit refusal on clear terms.
 
 ## Debrief and repeat
 

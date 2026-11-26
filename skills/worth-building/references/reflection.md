@@ -10,7 +10,7 @@ Assess the work the user would choose from today forward. A real problem can be 
 | **Durable interest** | Which ordinary or tedious tasks would this involve in week six? Which would you still choose to do? | **Ready:** willing to own named ongoing work. **Unclear:** starting is appealing, maintenance unconsidered. **Constrained:** ongoing work conflicts with stated preferences. |
 | **Willingness to update** | Which finding would lead you to stop, narrow, or hand off the project? | **Ready:** observable reason to change course. **Unclear:** no criterion yet. **Constrained:** plans to proceed regardless of results. |
 
-Use **Unknown** for missing answers. Avoid totals. Name the binding constraint and ask what smaller commitment could fit.
+Use **Unknown** for missing answers. Avoid totals. Name the binding constraint and ask what smaller commitment could fit. For a larger decision, write one sentence about the work or life the user wants the project to support. Distinguish firm boundaries from preferences that can change. Remove a commitment when that is what makes space for the chosen one. Leave a buffer for the work that tends to run long.
 
 ## Look at the choice with a little distance
 
@@ -19,5 +19,7 @@ Use **Unknown** for missing answers. Avoid totals. Name the binding constraint a
 3. **Name the work after the launch.** Who recruits users, handles support, follows up after a quiet week, or maintains the tool after platform changes? Ask for examples from the user's own projects. Past follow-through can inform the estimate of ongoing effort.
 4. **Choose an optional guardrail.** If enthusiasm is making the decision hard, capture the idea and pick a time to revisit it. The user can protect a current priority, choose a budget cap, ask a peer to challenge the case, or reserve one small check before buying anything. At the review, ask what changed in the evidence, the trade-off, or the willingness to do the work.
 5. **Make room for the chosen work.** Record what will move off the calendar and put the test or review in the freed slot. If the option is on hold, record the trigger and come back when it changes.
+
+If a pattern of switching is hard to see, suggest a short optional record. Note what was happening when the new idea became compelling, what immediate payoff the user expected, what they did, and what it cost or helped by the next day. Before acting on a similar impulse, agree on a boundary the user chooses, such as saving the idea for a review slot and keeping the current work block. At review, compare what changed in the reasons, evidence, and actual behavior. Use [learning rhythm](learning-rhythm.md) to make a chosen behavior easier to repeat. These observations describe the builder's behavior. They say nothing about external demand on their own.
 
 This is a practical review of commitments, attention, and habits. Leave clinical labels, claims about brain chemistry, and treatment advice outside the assessment.

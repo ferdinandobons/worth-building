@@ -4,9 +4,9 @@
 
 ## Is this idea worth building?
 
-You have a new idea. You can already picture the features, and part of you wants to spend the weekend building it. Maybe the last idea felt just as convincing. Who has this problem today? What do they already do about it? What would you need to see before giving this idea another weekend?
+You can already picture the first version. Before you give it another weekend, find out who has the problem, what they do about it today, and what would make the next step worth your time.
 
-**worth-building** is an open-source AI skill for validating startup ideas, side projects, and product features. Tell it what you're thinking of building. It helps you find the problem behind the idea, figure out what you still need to learn, and decide what to do next with the time and money you actually have.
+**worth-building** is an open-source AI skill for independent builders doing startup idea validation, customer discovery, or deciding whether to continue a side project. Bring the idea you're tempted to start. You'll work toward one decision and a next step that fits what you know and the time and money you can spare.
 
 ## Try it with your idea
 
@@ -14,16 +14,14 @@ You have a new idea. You can already picture the features, and part of you wants
 
 > I'm thinking about [what you'd like to build or try]. Is it worth pursuing? What would I need to make it work?
 
-If your client selects skills automatically, a conversation about a new idea or project can bring in Worth Building. Start with the idea itself. The skill can ask what made you think there was a problem, help you work out what to find out first, and ask about time or contacts when they matter. [See the worked example](examples/worked-examples.md#a-guided-review-from-one-idea).
+If your client selects skills automatically, talking about a new idea can bring in Worth Building. The skill starts from what you've said, then asks the question most likely to change your next step. Bring back what you learn and pick up from there. [See the worked example](examples/worked-examples.md#a-guided-review-from-one-idea).
 
-## How the guided validation works
+## From the first idea to the next decision
 
-- **You have a rough idea.** Start with who would use it, the last time the problem came up, and how they handled it. If you have yet to choose an idea, start with a workflow you can observe.
-- **You have some evidence.** Bring customer interviews, web research, or notes from a pilot. The skill checks what they support and asks which missing fact would change your decision.
-- **You have a real problem and several ways to solve it.** Compare the options against the same outcome. Check how each would fit the customer's workflow, what switching would take, and what it would cost you to deliver and maintain.
-- **You have several projects competing for your time.** Compare them over the same period. Make room for the work you already care about and decide what each new commitment would displace.
-
-You can work through the decision in conversation or get a quick first read. As you bring back evidence, the recommendation can change.
+- **You're unsure what the problem is.** Reconstruct the last time someone faced it. Use interviews and web research to check how they handled it and what it cost them.
+- **You have several ideas or ways to solve a problem.** Compare the outcomes, what each option would displace, and which small test could change your choice.
+- **You know what to test but keep putting it off.** Set up a repeatable first action. If you need to reach people, share one useful piece of work and look for specific responses from people who've faced the problem.
+- **People are already using or paying for a pilot.** Carve out one complete result you can deliver within a fixed limit. Check the time, cost, and quality, and see whether someone else can run it before you expand.
 
 | Decision | What to do next |
 | --- | --- |
@@ -41,7 +39,9 @@ Copy the complete [skill folder](skills/worth-building/SKILL.md), including its 
 - [Find and compare problems](skills/worth-building/references/opportunity-mapping.md)
 - [Research alternatives](skills/worth-building/references/web-research.md) and [run customer discovery interviews](skills/worth-building/references/interviews.md)
 - [Assess the evidence](skills/worth-building/references/evidence.md) and [check what the project would displace](skills/worth-building/references/reflection.md)
+- [Generate and try creative options](skills/worth-building/references/creative-discovery.md) and [make learning repeatable](skills/worth-building/references/learning-rhythm.md)
 - [Design an experiment](skills/worth-building/references/experiments.md) and [record the decision](skills/worth-building/assets/decision-brief.md)
+- [Share work to learn from feedback](skills/worth-building/references/sharing-and-feedback.md) and [test whether delivery is sustainable](skills/worth-building/references/delivery-and-operations.md)
 - [Worked examples](examples/worked-examples.md) and [Worth Building's self-assessment](examples/self-assessment.md)
 
 The worked examples are fictional. The self-assessment explains what would demonstrate that builders find the skill useful and choose to use it again.
