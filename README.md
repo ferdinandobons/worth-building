@@ -1,6 +1,6 @@
 # worth-building
 
-![worth-building. Another idea. Another dead end? An AI skill to help you find problems worth solving. A green strand emerges from the tangle on the left, threads through a blue filter, and continues beneath a smiling face.](assets/banner.png)
+![worth-building. Another idea. Another dead end? An AI skill to help you find problems worth solving. A clock, star, coin, and battery sit among tangled strands. The blue filter stops the red, yellow, and purple strands. Only the green strand passes through to the smiling face.](assets/banner.png)
 
 The last idea felt right, too. Before the next one takes over your evenings or budget, find out who has the problem, what it costs them, and how they handle it today.
 
